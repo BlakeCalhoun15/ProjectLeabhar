@@ -146,7 +146,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.36106277, g: 0.6886792, b: 0.18516374, a: 0}
+  m_BackGroundColor: {r: 0.23495911, g: 0.4056604, b: 0.14351194, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
@@ -298,4 +298,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42e3da7c1985c994da0e5a1119b44fe5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.25
+  speed: 2
