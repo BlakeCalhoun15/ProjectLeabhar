@@ -23,7 +23,7 @@ public class Sign : MonoBehaviour
         {
             dialogBox.SetActive(true);
         }
-        else
+        else if (!playerInRange)
         {
             dialogBox.SetActive(false);
             dialogText.text = dialog;
