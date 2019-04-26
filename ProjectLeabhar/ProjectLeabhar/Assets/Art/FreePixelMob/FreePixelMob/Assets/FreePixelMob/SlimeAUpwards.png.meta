@@ -1,39 +1,23 @@
 fileFormatVersion: 2
-guid: 9d69ae98725365b4b94189120dc1b40a
+guid: 4c93811c2dd921c45af9fa93148d0b94
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Slime_0
-    21300002: Slime_1
-    21300004: Slime_2
-    21300006: Slime_3
-    21300008: Slime_4
-    21300010: Slime_5
-    21300012: Slime_6
-    21300014: Slime_7
-    21300016: Slime_8
-    21300018: Slime_9
-    21300020: Slime_10
-    21300022: Slime_11
-    21300024: Slime_12
-    21300026: Slime_13
-    21300028: Slime_14
-    21300030: Slime_15
-    21300032: SlimeA_0
-    21300034: SlimeA_1
-    21300036: SlimeA_2
-    21300038: SlimeA_3
-    21300040: SlimeA_4
-    21300042: SlimeA_5
-    21300044: SlimeA_6
-    21300046: SlimeA_7
-    21300048: SlimeA_8
-    21300050: SlimeA_9
-    21300052: SlimeA_10
-    21300054: SlimeA_11
-    21300056: SlimeA_12
-    21300058: SlimeA_13
-    21300060: SlimeA_14
-    21300062: SlimeA_15
+    21300000: SlimeAUpwards_0
+    21300002: SlimeAUpwards_1
+    21300004: SlimeAUpwards_2
+    21300006: SlimeAUpwards_3
+    21300008: SlimeAUpwards_4
+    21300010: SlimeAUpwards_5
+    21300012: SlimeAUpwards_6
+    21300014: SlimeAUpwards_7
+    21300016: SlimeAUpwards_8
+    21300018: SlimeAUpwards_9
+    21300020: SlimeAUpwards_10
+    21300022: SlimeAUpwards_11
+    21300024: SlimeAUpwards_12
+    21300026: SlimeAUpwards_13
+    21300028: SlimeAUpwards_14
+    21300030: SlimeAUpwards_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -59,12 +43,12 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: -3
+  textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: 16
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -116,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SlimeA_0
+      name: SlimeAUpwards_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,13 +114,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9424508502ee945a128ad1342394ab
+      spriteID: 1363b73f06c10b34b855ca7372ffe328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_1
+      name: SlimeAUpwards_1
       rect:
         serializedVersion: 2
         x: 16
@@ -150,13 +134,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8acafb7ef5bc72b4997a45ec20937335
+      spriteID: 4b9ef33bf0fef9f46b7f6d1398177954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_2
+      name: SlimeAUpwards_2
       rect:
         serializedVersion: 2
         x: 32
@@ -170,13 +154,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10da4e2f62073c94ba430fa76befb064
+      spriteID: 7154c3b5ac07aeb4580945ad78c603ee
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_3
+      name: SlimeAUpwards_3
       rect:
         serializedVersion: 2
         x: 48
@@ -190,13 +174,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0913359f330362d459f69826b767ed38
+      spriteID: c6816a425a769f040ada0f2572776454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_4
+      name: SlimeAUpwards_4
       rect:
         serializedVersion: 2
         x: 64
@@ -210,13 +194,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d535be785441ffe44a7b13160d02a67a
+      spriteID: d1ac6a37f45ffda46856999e9d61c1bb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_5
+      name: SlimeAUpwards_5
       rect:
         serializedVersion: 2
         x: 80
@@ -230,13 +214,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc862ee12185bd04abfefd79c643b6df
+      spriteID: a750b29be30b0fc4d8bca962354c3f45
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_6
+      name: SlimeAUpwards_6
       rect:
         serializedVersion: 2
         x: 96
@@ -250,13 +234,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edb7828555cd071488957d88aa482278
+      spriteID: d6d45493395804f4aacd43c28046e201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_7
+      name: SlimeAUpwards_7
       rect:
         serializedVersion: 2
         x: 112
@@ -270,13 +254,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a15b0e4a18c56c9429f81bfbd2f45c4b
+      spriteID: dc9133ac560cc5640ba494e51c424cc9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_8
+      name: SlimeAUpwards_8
       rect:
         serializedVersion: 2
         x: 128
@@ -290,13 +274,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f84b465c6efeafc4b984290e6530dc67
+      spriteID: e363375523eaa304e94f2962a463fe5a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_9
+      name: SlimeAUpwards_9
       rect:
         serializedVersion: 2
         x: 144
@@ -310,13 +294,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4558ed518322b8743bfdcd1689aaabc1
+      spriteID: 6b8a80c019287f249baf4280ef42feee
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_10
+      name: SlimeAUpwards_10
       rect:
         serializedVersion: 2
         x: 160
@@ -330,13 +314,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b16e59bbf698a7448920dd8abacfc55
+      spriteID: 5a02eaebe0d355e49bb5f10c1d6280f4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_11
+      name: SlimeAUpwards_11
       rect:
         serializedVersion: 2
         x: 176
@@ -350,13 +334,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61add9d1c9eebb940af25d5cc2df9387
+      spriteID: c3776d3dd00526b4382afd8b2b19cfa9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_12
+      name: SlimeAUpwards_12
       rect:
         serializedVersion: 2
         x: 192
@@ -370,13 +354,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8689cf73ab094934ca96af4286d7aafc
+      spriteID: 0c88c1702951b0041be4a168df4f376e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_13
+      name: SlimeAUpwards_13
       rect:
         serializedVersion: 2
         x: 208
@@ -390,13 +374,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08bc09070de900d49a8b4490203404af
+      spriteID: 2d090ed88e2290e45ae8fabe4b1df184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_14
+      name: SlimeAUpwards_14
       rect:
         serializedVersion: 2
         x: 224
@@ -410,13 +394,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99196d9fc90ae694591ad2e0be19a21e
+      spriteID: e97683d0d5ab83347890a06fab6e2bd7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlimeA_15
+      name: SlimeAUpwards_15
       rect:
         serializedVersion: 2
         x: 240
@@ -430,7 +414,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d9ee464858c7249acf7d820d0c03f5
+      spriteID: a976401bf064e8a4f91b8233be4adcf3
       vertices: []
       indices: 
       edges: []
@@ -438,7 +422,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 2a9062e95950f7f46a94e92b30b6bac5
+    spriteID: 0f1379b388a7b2f46a52b92dca255884
     vertices: []
     indices: 
     edges: []

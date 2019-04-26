@@ -23,6 +23,9 @@ public class PlayerMovement : MonoBehaviour
         currentState = PlayerState.walk;
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
+
+        animator.SetFloat("moveX", 0);
+        animator.SetFloat("moveY", -1);
     }
 
     // Update is called once per frame
@@ -35,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         {
             StartCoroutine(AttackCo());
         }
-        if (currentState == PlayerState.walk)
+        else if (currentState == PlayerState.walk)
         {
             UpdateAnimationAndMove();
         }
