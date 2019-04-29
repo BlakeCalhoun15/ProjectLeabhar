@@ -38,7 +38,7 @@ TextureImporter:
     21300066: Overworld_33
     21300068: Overworld_34
     21300070: Overworld_35
-    21300072: Overworld_36
+    21300072: hangingsign
     21300074: Overworld_37
     21300076: Overworld_38
     21300078: Overworld_39
@@ -1878,13 +1878,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Overworld_36
+      name: hangingsign
       rect:
         serializedVersion: 2
         x: 576
-        y: 560
+        y: 528
         width: 16
-        height: 16
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -22626,7 +22626,7 @@ TextureImporter:
         width: 16
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

@@ -2,17 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum EnemyState
+{
+    idle,
+    walk,
+    attack,
+    stagger
+}
+
 public class Enemy : MonoBehaviour
 {
-    public int health;
+    public EnemyState currentState;
+    public FloatValue maxHealth;
+    public float health;
     public string enemyName;
     public float baseAttack;
     public float moveSpeed;
 
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        health = maxHealth.initialValue;
     }
 
     // Update is called once per frame
