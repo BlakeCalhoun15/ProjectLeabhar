@@ -8274,7 +8274,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1605128981
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 2e73d761e66ca0247bd51c4304ce5c2b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46927,6 +46927,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250785912891389507, guid: 2275c067c6b280948a06f79e0856ff31,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2754
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250785912891389507, guid: 2275c067c6b280948a06f79e0856ff31,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2754
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250785912891389507, guid: 2275c067c6b280948a06f79e0856ff31,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2754
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250785912891389506, guid: 2275c067c6b280948a06f79e0856ff31,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.18748555
+      objectReference: {fileID: 0}
+    - target: {fileID: 1250785912891389506, guid: 2275c067c6b280948a06f79e0856ff31,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.74866647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2275c067c6b280948a06f79e0856ff31, type: 3}
