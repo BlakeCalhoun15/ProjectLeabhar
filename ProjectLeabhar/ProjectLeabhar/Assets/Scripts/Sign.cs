@@ -19,7 +19,7 @@ public class Sign : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.F) && playerInRange)
+        if ((Input.GetKey(KeyCode.F) || Input.GetButton("Interact")) && playerInRange)
         {
             dialogBox.SetActive(true);
         }
